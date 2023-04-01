@@ -1,0 +1,16 @@
+Privacy Policy
+Anchor Drag Alarm is a program that monitors the location of your android device relative to the anchor and warns you if your anchor is dragging away from its original location. It does not need any network/cell connectivity to work because it does not communicate with external data sources like web sites, web databases, etc. This is a simple standalone program.
+
+To function, the app needs access to:
+•	Precise GPS location
+•	Compass heading
+•	Speaker 
+•	Display
+
+The app stores 3 pieces of data locally
+1.	Your choice of units (feet or meters) so you do not need to change it every time you start the app.
+2.	The defaults for the distance to the anchor and the guard distance are updated every time they are changed. In Florida these distances are usually the same and this saves editing them every time.
+3.	The last anchor location is stored so that you can reset the alarm without reestablishing where the anchor is. This makes it easy to stop the app to use the device for other reasons (like leave the boat) and resume the alarm when you return.
+
+Because the data is stored only on your device, you are the person in control of who has access to it. 
+Your privacy is in your hands.
